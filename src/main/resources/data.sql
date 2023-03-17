@@ -1,0 +1,10 @@
+insert into users(id_pk,name,surname,created) values (1,'Roberto','Patel',now());
+insert into users(id_pk,name,surname,created) values (2,'Roberto','Martin',now());
+insert into users(id_pk,name,surname,created) values (3,'Glen','Turner',now());
+insert into users(id_pk,name,surname,created) values (4,'Dave','Ward',now());
+insert into users(id_pk,name,surname,created) values (5,'Roberto','Lewis',now());
+insert into users(id_pk,name,surname,created) values (6,'Dan','White',now());
+insert into users(id_pk,name,surname,created) values (7,'Ethan','Walker',now());
+insert into users(id_pk,name,surname,created) values (10,'Ethan','Thompson',now());
+insert into users(id_pk,name,surname,created) values (11,'Lewis','Green',now());
+insert into users(id_pk,name,surname,created) values (12,'Liam','White',now());
